@@ -1,0 +1,16 @@
+[
+{
+  "modid": "markdownchat",
+  "name": "Markdown Chat",
+  "description": "A mod that makes chat use markdown formatting.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["DarkEnchanter1"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
