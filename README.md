@@ -1,0 +1,3 @@
+# MarkdownMod
+Hey, you know that **super 1337** formatting system used for github readme's? Well, you can do that it minecraft now.
+Doesn't work on servers that change the player name format, and will probably do wiiierrd stuff to certain tellraws, but eh...
